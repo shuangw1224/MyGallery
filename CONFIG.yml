@@ -1,0 +1,45 @@
+title: 在场证明
+subtitle: Being in the World
+description: To be alive means to live in a world that preceded one’s own arrival and will survive one’s own departure. 
+To be alive means to be possessed by an urge toward self-display which answers the fact of one's own appearingness.
+cover: 'https://github.com/lfkdsk/picx-images-hosting/raw/master/20230817/IMG_7586.4e91my1ve140.17iz0sa56gik.webp'
+author: shuangw1224
+
+footer_logo:
+  use: self
+  self:
+    link: 'https://github.com/shuangw1224'
+    src: 'https://github.com/lfkdsk/picx-images-hosting/raw/master/20230817/tripper2white.2pbuwaqvndu0.webp'
+
+url: https://shuangw1224.github.io/MyGallery
+root: /MyGallery
+
+photography_page:
+  slogan: true
+  slogan_descr: 'The moments when I pressed the shutter, the moments are forever.'
+
+google_analytics:
+  use: gtag
+  ga_id:
+  ga_api:
+  gtag_id: XXXXX
+
+nav:
+  地图:
+    link: MyGallery/location
+    icon: local-two
+  归档:
+    link: https://shuangw1224.github.io/blog
+    icon: inbox
+  随机:
+    link: MyGallery/random
+    icon: pic
+  状态监控:
+    link: MyGallery/status
+    icon: list-view
+  时间线:
+    link: MyGallery/grid-all
+    icon: grid-nine
+
+thumbnail_url: https://cdn.jsdelivr.net/gh/shuangw1224/MyGallery@thumbnail/
+base_url: https://cdn.jsdelivr.net/gh/shuangw1224/MyGallery@master
