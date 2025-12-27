@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>在场证明</title>
+  
+  <subtitle>Being in the World</subtitle>
+  <link href="https://shuangw1224.github.io/MyGallery/atom.xml" rel="self"/>
+  
+  <link href="https://shuangw1224.github.io/MyGallery/"/>
+  <updated>2025-12-27T04:16:27.217Z</updated>
+  <id>https://shuangw1224.github.io/MyGallery/</id>
+  
+  <author>
+    <name>shuangw1224</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>照片集</title>
+    <link href="https://shuangw1224.github.io/MyGallery/2025/undefined/"/>
+    <id>https://shuangw1224.github.io/MyGallery/2025/undefined/</id>
+    <published>2025-12-27T04:16:27.217Z</published>
+    <updated>2025-12-27T04:16:27.217Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
