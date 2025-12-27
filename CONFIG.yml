@@ -25,19 +25,19 @@ google_analytics:
 
 nav:
   地图:
-    link: MyGallery/location
+    link: location
     icon: local-two
   归档:
     link: https://shuangw1224.github.io/blog
     icon: inbox
   随机:
-    link: MyGallery/random
+    link: random
     icon: pic
   状态监控:
-    link: MyGallery/status
+    link: status
     icon: list-view
   时间线:
-    link: MyGallery/grid-all
+    link: grid-all
     icon: grid-nine
 
 thumbnail_url: https://cdn.jsdelivr.net/gh/shuangw1224/MyGallery@thumbnail/
