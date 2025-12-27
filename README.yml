@@ -1,17 +1,5 @@
-模式口 · 拍猫:
-  url: Cat
-  date: "2023-09-01"
+美东-DC:
+  url: WashingtonDC
+  date: "2025-12-10"
   style: fullscreen
-  cover: Cat/15.jpg
-
-羊:
-  url: Nature
-  date: "2023-09-02"
-  style: fullscreen
-  cover: Nature/16.webp
-
-颐和园:
-  url: Landscape
-  date: "2023-09-03"
-  style: fullscreen
-  cover: Landscape/17.webp
+  cover: WashingtonDC/DSC_4302.webp
